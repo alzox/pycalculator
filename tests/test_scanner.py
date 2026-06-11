@@ -1,5 +1,5 @@
 from math import remainder
-from ..parser import scanner
+from ..lexer import scanner
 import random
 
 def test_numbers_fuzz():
